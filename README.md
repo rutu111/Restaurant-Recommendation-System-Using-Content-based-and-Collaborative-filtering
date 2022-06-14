@@ -1,3 +1,3 @@
-# Machine-learning-and-data-mining
-Projects done in machine learnin[RutujaShah_ShalviDesai_ProjectPoster.pdf](https://github.com/rutu111/Unsupervised-mahine-learning-and-Data-mining/files/8900897/RutujaShah_ShalviDesai_ProjectPoster.pdf)
-g and data mining
+1. Employment of Clustering algorithm K-means along with Principal Component Analysis (PCA) to perform contentbased filtering and 
+2. Employment of PCA and Neural Networks for Collaborative filtering. 
+Please read the poster for an overview and the report for details. 
