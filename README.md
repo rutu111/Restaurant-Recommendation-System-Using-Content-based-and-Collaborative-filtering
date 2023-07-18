@@ -1,5 +1,4 @@
 DS5230 Unsupverised Machine Learning and Data Mining. (Rutuja and Shalvi)
 
-1. Employment of Clustering algorithm K-means along with Principal Component Analysis (PCA) to perform content-based filtering and 
-2. Employment of PCA and Neural Networks for Collaborative filtering. 
-Please read the poster for an overview and the report for details. 
+-> Employment of clustering algorithms K-means and Agglomerative clustering to recommendation restaurants to a given user based on similar cuisines by using the concept of content-based filtering.
+-> Employment of PCA and Neural Networks in order to recommend restaurants to a given user based on preferences of similar users by using the concept of  collaborative filtering.
